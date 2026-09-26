@@ -1,0 +1,9 @@
+Package_ID Weight Original_Position
+P101       20     1
+P102       15     2
+P103       20     3
+P104       10     4
+P105       15     5
+P106       20     6
+P107       25     7
+P108       10     8

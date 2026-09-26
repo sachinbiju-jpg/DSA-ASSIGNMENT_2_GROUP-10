@@ -1,0 +1,7 @@
+Original Packages:
+P101(20) P102(15) P103(20) P104(10) P105(15) P106(20) P107(25) P108(10)
+
+After Stable Merge Sort:
+P104(10) P108(10) P102(15) P105(15) P101(20) P103(20) P106(20) P107(25)
+
+Number of key comparisons: 16
